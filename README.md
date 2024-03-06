@@ -30,5 +30,6 @@
     - Model: mathematical and probability model(比如regression, tree, neural network model)
     - Algorithm: computational algorithm(比如dp，排序算法)
 
+
 ## 本学期生物信息学的学习计划
 根据lectures、gitbook等资源，学习Linux、R、python等programming skills和NGS Data Analysis的方法。
