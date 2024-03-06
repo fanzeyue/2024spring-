@@ -11,6 +11,7 @@
     - interpreting biological sequences
     - predicting structure and function
     - mining clinical data(cancer) data/information
+
 ### Gene: Coding and Noncoding
 - Gene and Genome (Gene: a piece of information)
 - Gene and Central Dogma
@@ -22,6 +23,7 @@
         - Canonical ncRNA
         - Small ncRNA
         - Long ncRNA
+
 ### Method: Sequenceing and Computing
 - 3 steps of bioinformatics:
     - Information: (比如images, sequences)
